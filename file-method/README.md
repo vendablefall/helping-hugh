@@ -1,6 +1,6 @@
 ### File Based DB Idea
 
-This takes a users input (index.html) and stores it in a txt file (write.php), imports the text file and displays the contents (index.html).
+This takes a users input (index.html) and stores it in comments.txt (write.php does this), index.html also imports comments.txt and displays the contents.
 
 ### Set up
 
@@ -10,10 +10,4 @@ However I advise you run the commands one by one (manually), and make sure they 
 
 #### .archive
 
-There is an older version of this "file-system" in .archive/ (incase this one doesnt work), if you want to try it replace index.html and copy read.php:
-
-```
-mv index.html index.html.old
-cp .archive/index.html  ./index.html
-cp .archive/read.php  ./read.php
-```
+There is an older version of this "file-system" in .archive/ (incase this one doesnt work), if you want to try it 
