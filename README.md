@@ -1,6 +1,4 @@
-### Setup
+database-method/ = https://www.worldbestlearningcenter.com/index_files/php-comment-form.htm
 
-set-up.sh should do most of the set-up for you.
-
-However I advise you run the commands one by one (manually), and make sure they complete (if you do this, you will have to prepend all of the commands with sudo)
+file-method/ = dennis' idea + https://stackoverflow.com/questions/35443812/how-to-save-string-entered-in-html-form-to-text-file
 
