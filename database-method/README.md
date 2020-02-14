@@ -1,3 +1,7 @@
+### MySQL DataBase Idea
+
+Stores user input in the DB and shows it back on the main page.
+
 ### Setup
 
 set-up.sh should do most of the set-up for you.
