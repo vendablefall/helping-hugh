@@ -17,4 +17,4 @@ rm /var/ww/html/index.html
 
 # copy over our web-app files
 cp ./write.php /var/ww/html/write.php 
-cp ./index.html  /var/ww/html/index.html 
+cp ./index.php  /var/ww/html/index.php 
