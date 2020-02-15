@@ -10,6 +10,5 @@ apt-get install -y php apache2
 rm /var/ww/html/index.html
 
 # copy over our web-app files
-cp ./action.php /var/ww/html/write.php 
-cp ./action.php /var/ww/html/read.php 
+cp ./write.php /var/ww/html/write.php 
 cp ./index.html  /var/ww/html/index.html 
